@@ -1,0 +1,10 @@
+mkdir IEEE_S mkdir IEEE_SSCS_SWE/0x00-session
+  379  touch README.md
+  380  rm README.md
+  381  cd IEEE_SSCS_SWE/0x00-session
+  382  IEEE_SSCS_SWE/0x00-session
+  383  touch README.md
+  384  nano README.md
+  385  mv README.mdM-A README.md
+  386  touch task-0.sh
+  387  history
